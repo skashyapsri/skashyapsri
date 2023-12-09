@@ -3,13 +3,13 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=023eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=+Tech+Lead;+Loves+To+Build+Products+✨;+Software+Engineering+Mentor+⌛;+Entrepreneur;+Building+Next+Gen+SaaS+🕵;++Freelancer⌚;+">
 </div>
+
+
+<img align="centre" style="text-align:center" alt="coding" width="400" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif/v1/fit/w_320,h_206,al_c,q_80,enc_auto/file.gif">
+
 <a href="https://github.com/404">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GitHub Profile">
 </a>
-
-
-<img align="centre" alt="coding" width="400" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif/v1/fit/w_320,h_206,al_c,q_80,enc_auto/file.gif">
-
 
 
 - 🔭 I’m currently pursuing my **M.Sc Specialization in Machine Learning (ML) and Artificial Intelligence (AI)**
