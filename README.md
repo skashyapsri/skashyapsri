@@ -1,7 +1,7 @@
 <h1 align="center">Srikrishna S Kashyap</h1>
 <h3 align="center">A highly accomplished computer scientist and software developer with a passion for leveraging technology to solve complex problems and drive innovation</h3>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=023eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=+👋+I'm+Srikrishna+S+Kashyap;+Lead+Engineer+🎲;+Loves+To+Build+Products+✨;+Software+Engineering+Mentor+⌛;+Entrepreneur+✌;+💡+Building+Next+Gen+SaaS+🕵;+Tech+Lead+and+Freelancer+⌚;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=023eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=+Tech+Lead+🎲;+Loves+To+Build+Products+✨;+Software+Engineering+Mentor+⌛;+Entrepreneur+💡;+Building+Next+Gen+SaaS+🕵;+I+do+contract+and+Freelance++work⌚;">
 </div>
 <a href="https://github.com/404">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GitHub Profile">
