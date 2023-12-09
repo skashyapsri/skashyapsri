@@ -32,4 +32,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skashyapsri&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="skashyapsri" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skashyapsri&" alt="skashyapsri" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skashyapsri&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="skashyapsri" /></p>
