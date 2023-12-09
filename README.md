@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srikrishna S Kashyap</h1>
-<h3 align="center">A highly skilled software developer specializing in AI, machine learning, and deep learning</h3>
+<h3 align="center">A highly accomplished computer scientist and software developer with a passion for leveraging technology to solve complex problems and drive innovation</h3>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=023eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=.+.+Hey+There+👋,+I'm+Srikrishna+S+Kashyap;+.+.+Lead+Engineer+🎲;+Loves+To+Build+Products+✨;+Software+Engineering+Mentor+⌛;+Entrepreneur+✌;+💡;+Building+Next+Gen+SaaS+🕵;+Tech+Lead+and+Freelancer+⌚;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=023eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Srikrishna+S+Kashyap;+Lead+Engineer+🎲;+Loves+To+Build+Products+✨;+Software+Engineering+Mentor+⌛;+Entrepreneur+✌;+💡+Building+Next+Gen+SaaS+🕵;+Tech+Lead+and+Freelancer+⌚;">
 </div>
 <a href="https://github.com/404">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GitHub Profile">
@@ -16,9 +16,9 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **mailto:skashyapsri04@gmail.com**
+- 📫 How to reach me **skashyapsri04@gmail.com**
 
-- ⚡ Fun fact **I'm a music composer. Checkout my YouTube Channel**
+- ⚡ Fun fact **I'm a music composer. Checkout my [YouTube Channel](https://www.youtube.com/@TranquilityTuned)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
