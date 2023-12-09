@@ -1,5 +1,16 @@
 <h1 align="center">Hi 👋, I'm Srikrishna S Kashyap</h1>
-<h3 align="center">A highly skilled computer scientist and software developer specializing in AI, machine learning, and deep learning</h3>
+<h3 align="center">A highly skilled software developer specializing in AI, machine learning, and deep learning</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=023eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=.+.+Hey+There+👋,+I'm+Srikrishna+S+Kashyap;+.+.+Lead+Engineer+🎲;+Loves+To+Build+Products+✨;+Software+Engineering+Mentor+⌛;+Entrepreneur+✌;+💡;+Building+Next+Gen+SaaS+🕵;+Tech+Lead+and+Freelancer+⌚;">
+</div>
+<a href="https://github.com/404">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GitHub Profile">
+</a>
+
+
+<img align="centre" alt="coding" width="400" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif/v1/fit/w_320,h_206,al_c,q_80,enc_auto/file.gif">
+
+
 
 - 🔭 I’m currently pursuing my **M.Sc Specialization in Machine Learning (ML) and Artificial Intelligence (AI)**
 
@@ -13,7 +24,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/srikrishna-s-kashyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srikrishna-s-kashyap" height="30" width="40" /></a>
 <a href="https://instagram.com/srikrishna_s_kashyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srikrishna_s_kashyap" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tranquilitytuned" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tranquilitytuned" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@TranquilityTuned" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tranquilitytuned" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
