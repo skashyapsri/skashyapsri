@@ -1,4 +1,4 @@
-<h1 align="center">Srikrishna S Kashyap</h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=skashyapsri&label=Profile%20views&color=023ece&style=flat" alt="skashyapsri" /> </p>
+<h1 align="center">Srikrishna S Kashyap</h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=skashyapsri&label=Profile%20views&color=23ecef&style=flat" alt="skashyapsri" /> </p>
 
 <h3 align="center">A highly accomplished computer scientist and software developer with a passion for leveraging technology to solve complex problems and drive innovation</h3>
 <div align="center">
