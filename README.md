@@ -1,8 +1,8 @@
-<h1 align="center">Srikrishna S Kashyap</h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=skashyapsri&label=Profile%20views&color=41bcf7&style=flat" alt="skashyapsri" /> </p>
+<h1 align="center">Srikrishna S Kashyap</h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=skashyapsri&label=Profile%20views&color=96F7A3&style=flat" alt="skashyapsri" /> </p>
 
 <h3 align="center">A highly accomplished computer scientist and software developer with a passion for leveraging technology to solve complex problems and drive innovation</h3>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=023eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=+Tech+Lead;+Loves+To+Build+Products+✨;+Software+Engineering+Mentor+⌛;+Entrepreneur;+Building+Next+Gen+SaaS+🕵;++Freelancer⌚;+">
+  <img src="https://readme-typing-svg.herokuapp.com?color=96F7A3&size=30&center=true&vCenter=true&width=550&height=70&lines=+Tech+Lead;+Loves+To+Build+Products+✨;+Software+Engineering+Mentor+⌛;+Entrepreneur;+Building+Next+Gen+SaaS+🕵;++Freelancer⌚;+">
 </div>
 
 
